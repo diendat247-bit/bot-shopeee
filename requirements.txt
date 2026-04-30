@@ -1,2 +1,4 @@
 pyTelegramBotAPI
+gspread
+google-auth
 Flask
